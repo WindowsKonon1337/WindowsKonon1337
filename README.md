@@ -1,9 +1,9 @@
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindowsKonon1337&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindowsKonon1337&theme=solarized_dark)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=WindowsKonon1337)
 
 <!--
 **WindowsKonon1337/WindowsKonon1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
