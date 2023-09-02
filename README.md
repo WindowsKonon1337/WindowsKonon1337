@@ -1,7 +1,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindowsKonon1337&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindowsKonon1337&theme=solarized_dark)
-<br><i>OS</i><br>
+</br><i>OS</i>
 <p>
   
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
