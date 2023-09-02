@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </p>
 
-</br><i>Technology Stack: </i>
+</br><b><i>Technology Stack: </i></b>
 <p>
 <p><b>ML/DL</b></p></br>
 
