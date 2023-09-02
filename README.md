@@ -2,7 +2,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindowsKonon1337&theme=solarized_dark)
 
-[![](https://github-readme-stats.vercel.app/api?username=WindowsKonon1337)](https://github.com/anuraghazra/github-readme-stats)
 </br><i>My OS: </i>
 <p>
   
