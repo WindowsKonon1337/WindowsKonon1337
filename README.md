@@ -4,6 +4,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WindowsKonon1337&theme=solarized_dark)
 </div>
+
 ![](https://komarev.com/ghpvc/?username=WindowsKonon1337)
 
 <!--
