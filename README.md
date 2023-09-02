@@ -10,7 +10,8 @@
 </p>
 
 </br>
-<font size="1"><b><i>Technology Stack: </i></b></font>
+# Technology Stack: 
+<!--<font size="1"><b><i>Technology Stack: </i></b></font>-->
 <p>
 <p><b>ML/DL and DS</b></p></br>
 
