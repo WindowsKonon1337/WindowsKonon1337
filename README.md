@@ -1,7 +1,7 @@
-<h2><b><i>General Statistics: </i></b></h2>
+<!--<h2><b><i>General Statistics: </i></b></h2>
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=WindowsKonon1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
+-->
 <h2></br><i>My OS: </i></h2>
 <p>
   
